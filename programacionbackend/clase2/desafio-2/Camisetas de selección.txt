@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta Argentina",
+    "price": 18000,
+    "thumbnail": "https://todosobrecamisetas.com/wp-content/uploads/camiseta-adidas-argentina-2022-3.jpg"
+  }
+]
